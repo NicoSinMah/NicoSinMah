@@ -1,16 +1,35 @@
-## Hi there 👋
+# NicoSinMah
 
-<!--
-**NicoSinMah/NicoSinMah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Backend Developer 
 
-Here are some ideas to get you started:
+I'm a backend developer focused on **Java, Spring Boot, and PostgreSQL**, with a strong interest in software design, clean code, and building reliable applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+
+- **Languages:** Java, SQL
+- **Backend:** Spring Boot, Spring MVC, Spring Data JPA, Hibernate
+- **Databases:** PostgreSQL, JDBC
+- **Testing:** JUnit, Mockito, Postman
+- **Tools:** Git, GitHub, Maven, Gradle
+
+### Featured Project
+
+**Banking**
+
+A banking backend application developed to apply Java and Spring concepts in a realistic business domain.
+
+- REST API design and layered architecture
+- Database persistence with PostgreSQL
+- Input validation and centralized exception handling
+- Transaction management and concurrency control
+- Unit and integration testing
+
+**Stack:** Java · Spring Boot · Spring Data JPA · PostgreSQL · JUnit · Mockito
+
+Currently working on
+
+### Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/vaz-nico/) 
+
+I'm looking for junior Java backend opportunities where I can contribute to real-world projects, collaborate with experienced engineers, and continue growing as a software engineer.
